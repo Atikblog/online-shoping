@@ -325,4 +325,4 @@ li a:hover:not(.active) {
   style="display: inline-block; margin: 0 auto; max-width: 300px">
   <center>please take screen shoot.send us contact site</center>
   <a href= 
-"https:web.facebook.com/profile.php?id=100053125741024"> Contact Me </a>"> Contact Me </a>
+"profile.php?id=100053125741024"> Contact Me </a>"> Contact Me </a>
